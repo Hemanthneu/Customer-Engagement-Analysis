@@ -1,6 +1,4 @@
-# Customer-Engagement-Analysis
-
-A Practical Approach to Analyzing and Visualizing Customer Engagement Metrics
+# A Practical Approach to Analyzing and Visualizing Customer Engagement Metrics
 
 Welcome to the Student Engagement Dashboard project! This repository is dedicated to the creation of a comprehensive three-page dashboard featuring key metrics and visualizations. The objective is to provide insights into student engagement and pinpoint critical areas for improvement.
 
